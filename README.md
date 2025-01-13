@@ -21,7 +21,7 @@
       <img src="https://images.playground.com/0edcc636b74748c1b292df0248a3843f.jpeg" alt="Image Description" width="300" style="border-radius: 10px;" />
     </td>
     <td style="text-align: left;">
-      <p>🔭 I’m currently working on <strong>E-Commerce</strong></p>
+      <p>🔭 I’m currently working on <strong>React Native</strong></p>
       <p>🌱 I’m currently learning <strong>MERN</strong></p>
       <p>💬 Ask me about <strong>Flutter, Firebase, Data Structures, and Algorithms, Genrative AI, &nbsp  &nbsp  &nbsp  &nbsp  &nbsp &nbsp  &nbsp  </strong></p>
       <p>📫 Reach me at <strong>siddharamsutar23@gmail.com</strong></p>
